@@ -11,6 +11,8 @@ git remote add origin https://github.com/fpicot31/Jenkins-docker.git
 
 git push -u origin master
 
+kndoye 
+
 -- Aller sur localhost:8080 et creer le pipeline
 
 -- si pb git
